@@ -1,2 +1,3 @@
-# codelandia-challenge-1
-1º desafio da comunidade Codelândia.
+# Codelândia Challenge 1
+
+*README still under construction*
